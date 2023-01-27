@@ -18,6 +18,3 @@
   <a href="https://instagram.com/brunovinicius_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto: brunoviniciusoliveiratavares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-<div align="center"> 
-![Snake animation](https://github.com/brunovinicius07/brunovinicius07/blob/output/github-contribution-grid-snake.svg)   
-  </div>
