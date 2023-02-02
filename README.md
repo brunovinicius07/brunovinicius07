@@ -2,7 +2,7 @@
 - 🌱 Estudando Java
 <div>
   <a href="https://github.com/brunovinicius07">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunovinicius07&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunovinicius07&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunovinicius07&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 <div>
 <div style="display: inline_block"><br>
