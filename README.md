@@ -1,5 +1,5 @@
-### Olá, Sou Bruno Vinícius 
-- 🌱 Estudando Java 
+### Hello, I'm Bruno Vinícius
+- 🌱 Studying Java
 <div>
   <a href="https://github.com/brunovinicius07">
   <img height="169em" src="https://github-readme-stats.vercel.app/api?username=brunovinicius07&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
