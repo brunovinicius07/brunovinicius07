@@ -1,4 +1,4 @@
-### Hello, I'm Bruno, I'm a software developer at Prefeitura Municipal de Carpina
+### Hello, I'm Bruno, I'm a software developer
 - 👨🏽‍💻 Back-End Developer
 <div>
   <a href="https://github.com/brunovinicius07">
